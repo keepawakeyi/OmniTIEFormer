@@ -1,7 +1,3 @@
-# OmniTIEFormer
-Code and data for our paper:"  OmniTIEFormer: A Tri-Branch Transformer with Cross-Scale Transfer Learning for Multi-Scale Battery Life-Cycle Forecasting"
-# OmniTIEFormer
-
 ## Overview
 This repository contains supplementary materials for our paper titled "OmniTIEFormer: A Tri-Branch Transformer with Cross-Scale Transfer Learning for Multi-Scale Battery Life-Cycle Forecasting". The core code of OmniTIEFormer is not open-sourced at this time due to the unpublished status of the paper. However, we have provided the following resources:
 
