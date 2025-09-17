@@ -27,7 +27,7 @@ The Panasonic and Gotion datasets are located in the `data` directory. You can u
 Once our paper is published, we plan to release the full implementation of OmniTIEFormer along with detailed instructions on how to reproduce all the results presented in the paper.
 
 ## Contact
-If you have any questions or need further assistance, please feel free to contact us at [your email address].
+If you have any questions or need further assistance, please feel free to contact the authors via the email address provided in the paper.
 
 ---
 
