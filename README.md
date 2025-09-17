@@ -19,7 +19,23 @@ To run the Autoformer code, please follow these steps:
 2. Navigate to the `autoformer` directory.
 3. Install the required dependencies (a `requirements.txt` file is provided).
 4. Run the experiments using the provided scripts.
+## Dependencies
 
+The baseline experiments (e.g., Autoformer) were implemented using the following Python packages and versions. We recommend using a virtual environment (e.g., `conda` or `venv`) to ensure reproducibility.
+
+| Package               | Version |
+|-----------------------|---------|
+| numpy                 | 1.21.6  |
+| numba                 | 0.55.1  |
+| matplotlib            | 3.3.4   |
+| scipy                 | 1.8.0   |
+| statsmodels           | 0.13.5  |
+| pytorch-lightning     | 1.9.5   |
+| pytorch-forecasting   | 0.10.3  |
+| sympy                 | 1.12.1  |
+| reformer_pytorch      | 1.4.4   |
+| openpyxl              | 3.1.5   |
+| einops                | 0.8.0   |
 ### Accessing the Datasets
 The Panasonic and Gotion datasets are located in the `data` directory. You can use these datasets for your own experiments or to reproduce the results reported in our paper.
 
