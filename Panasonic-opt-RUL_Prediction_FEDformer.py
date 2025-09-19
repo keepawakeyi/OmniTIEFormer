@@ -527,7 +527,7 @@ def main():
     args = parser.parse_args()
     
     # 加载电池数据
-    battery_data = np.load('E:\DATA-CODE\PatchFormer-main\datasets\Panasonic\Panasonic_Data.npy', 
+    battery_data = np.load('.\datasets\Panasonic\Panasonic_Data.npy', 
                           allow_pickle=True).item()
     
     # 创建优化器
